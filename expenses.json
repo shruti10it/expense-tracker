@@ -1,0 +1,22 @@
+[
+    {
+        "amount": 3700.0,
+        "category": "shopping",
+        "description": "car fare"
+    },
+    {
+        "amount": 500.0,
+        "category": "Other",
+        "description": "cricket pass"
+    },
+    {
+        "amount": 1000.0,
+        "category": "Travel",
+        "description": "cab fare"
+    },
+    {
+        "amount": 5000.0,
+        "category": "Food",
+        "description": "birthday party"
+    }
+]

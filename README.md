@@ -36,3 +36,4 @@ A simple Expense Tracker project built using Python and Streamlit.
 ## Project Purpose
 
 The purpose of this project is to provide a simple and interactive way to record, view, analyse and manage daily expenses.
+
